@@ -9,6 +9,6 @@
 <body>
 dev만듬<br>
 되는건가..?<br>
-yoyo 귀찮네..<br>
+yoyo 귀찮..<br>
 </body>
 </html>
